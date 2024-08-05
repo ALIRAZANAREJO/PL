@@ -1,3 +1,4 @@
+
 const cityRoutes = {
   "palestine": "../Palestine/palestine.html",
   "israel": "../Israel/israel.html",
@@ -85,7 +86,6 @@ const cityRoutes = {
 "rafah 2024":"../IsraelAttackOnPalestine/israel-Attack-om-Palestine/Israel-Attack-2023/Cities/Rafah/Rafah.html",
 "ramallah 2024":"../IsraelAttackOnPalestine/israel-Attack-om-Palestine/Israel-Attack-2023/Cities/Ramallah/Ramallah.html",
 "tulkarem 2024":"../IsraelAttackOnPalestine/israel-Attack-om-Palestine/Israel-Attack-2023/Cities/Tulkarem/Tulkarem.html",
-
 
   "palestiniane after israel attack":"../IsraelAttackOnPalestine/israel-Attack-om-Palestine/Israel-Attack-2023/Peoples/Peoples.html",
   "injured palestinianes":"../IsraelAttackOnPalestine/israel-Attack-om-Palestine/Israel-Attack-2023/injured-Palstinianes/injured.html",
