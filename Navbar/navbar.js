@@ -1,6 +1,6 @@
 
 const cityRoutes = {
-  "palestine": "../Palestine/palestine.html",
+  "home": "../Palestine/Palestine.html",
   "israel": "../Israel/israel.html",
   "israel attack at palestine": "../IsraelAttackOnPalestine/Attack1948.html",
   "hamas":"../Hammaz-&-israel-War/Hammaz-Attack-On-Israel.html",

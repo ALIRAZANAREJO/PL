@@ -3,7 +3,7 @@ console.log("If You Are Watching Console For Error Dont wory");
 console.log("See Console Errors Se Pak Sasf")
 
 const cityRoutes = {
-  "palestine": "../Palestine/palestine.html",
+  "home": "../Palestine/Palestine.html",
   "israel": "../Israel/israel.html",
   "israel attack at palestine": "../IsraelAttackOnPalestine/Attack1948.html",
   "hamas":"../Hammaz-&-israel-War/Hammaz-Attack-On-Israel.html",
