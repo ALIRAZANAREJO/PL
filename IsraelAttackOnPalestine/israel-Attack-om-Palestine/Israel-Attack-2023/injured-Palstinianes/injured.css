@@ -94,7 +94,7 @@ p{
 }
 
 .background-image {
-  background-image: url('/images/paletine.webp');
+  background-image: url('../../../../images/paletine.webp');
   background-size: cover;
   background-position: center;
   position: fixed;
