@@ -1,6 +1,6 @@
 console.log("Welcome to Plaestine Website");
 console.log("If You Are Watching Console For Error Dont wory");
-console.log("See Console Errors Se Pak Sasf")
+console.log("See Console Errors Se Pak Sasf");
 
 const cityRoutes = {
   "home": "../Palestine/Palestine.html",
