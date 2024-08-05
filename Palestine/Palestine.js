@@ -43,6 +43,7 @@ const cityRoutes = {
   "rafah":"../IsraelAttackOnPalestine/PC/Cities/Rafah/Rafah.html",
   "ramallah":"../IsraelAttackOnPalestine/PC/Cities/Ramallah-&-El-Bireh/Ramallah-&-El-Bireh.html",
   "tulkarem":"../IsraelAttackOnPalestine/PC/Cities/Tulkarem/Tulkarem.html",
+  "masjide aqsa":"../IsraelAttackOnPalestine/PC/Cities/Jerusalem/Masjid-e-Aqsa.html",
 
 
   "all wars":"../IsraelAttackOnPalestine/israel-Attack-om-Palestine/Israel-Attack-2022.html",
