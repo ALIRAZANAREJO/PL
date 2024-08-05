@@ -6,7 +6,7 @@ body {
   outline: none;
 }
 .background-image {
-  background-image: url("/IsraelAttackOnPalestine/images/Blast.webp");
+  background-image: url("../../../../IsraelAttackOnPalestine/images/Blast.webp");
   background-size: cover;
   background-position: center;
   position: fixed;

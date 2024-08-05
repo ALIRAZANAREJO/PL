@@ -11,7 +11,7 @@ p{
   color: white;
 }
 .background-image {
-  background-image: url("/images/old\ paestine\ 2.jpg");
+  background-image: url("../../../images/old.jpg");
   background-size: cover;
   background-position: center;
   position: fixed;

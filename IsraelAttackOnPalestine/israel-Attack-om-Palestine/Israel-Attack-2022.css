@@ -5,8 +5,8 @@ body {
     background-size: cover;
     outline: none;
   }
-  .background-image {
-    background-image: url('/images/paletine.webp');
+  .background-image{
+    background-image: url('../../images/paletine.webp');
     background-size: cover;
     background-position: center;
     position: fixed;
@@ -17,7 +17,7 @@ body {
     z-index: -1;
   }
   
-  .container {
+  .container{
     max-width: 800px;
     margin: 50px;
     margin-top: 50px;
@@ -29,7 +29,7 @@ body {
     padding-bottom: 20px;
   }
   
-  .headline-container {
+  .headline-container{
     text-align: left;
     padding: 10px;
     margin-top: 10px;
@@ -38,7 +38,7 @@ body {
     margin-bottom: 100px;
   }
   
-  .card-container {
+  .card-container{
     display: flex;
     position: relative;
     align-items: center;
@@ -46,7 +46,7 @@ body {
     margin-top: 50vh;
   }
   
-  .card-container > span {
+  .card-container > span{
     background-color: rgb(110, 110, 110);
     color: #c4a484;
     position: absolute;
@@ -59,11 +59,11 @@ body {
     text-align: center;
     }
   
-  .card p {
+  .card p{
     text-align: center;
     color: rgba(19, 1, 1, 0.767);
   }
-  .slider {
+  .slider{
     position: absolute;
     bottom: 0; /* Position the slider at the bottom of the main container */
     display: flex;
@@ -75,7 +75,7 @@ body {
     box-sizing: border-box;
   }
     
-  .container > h2 {
+  .container > h2{
     font-size: 35px;
     font-family: Arial, sans-serif;
     margin: 0px;

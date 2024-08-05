@@ -6,7 +6,7 @@ body {
   outline: none;
 }
 .background-image {
-  background-image: url("/IsraelAttackOnPalestine/israel-Attack-om-Palestine/Israel-Attack-2023/img/Hebron.jpeg");
+  background-image: url("../../img/Hebron.jpeg");
   background-size: cover;
   background-position: center;
   position: fixed;
